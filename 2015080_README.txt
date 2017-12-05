@@ -1,0 +1,18 @@
+This is my implementation of the link-state and the distance-vector algorithms
+
+I have implemented Dijkstra's Algorithm and Bellman-Ford Algorithm
+
+Usage :-
+
+Simply run the individual codes
+
+Example -
+
+javac BellmanFord_2015080.java
+java BellmanFord_2015080
+
+Three options are there n,q,c namely :-
+
+n = new graph with new nodes, edges and weights
+q = quit
+c = change graph with same nodes but different weights b/w them
